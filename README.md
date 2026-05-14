@@ -22,7 +22,7 @@ At the bottom of the handout, you will find some hints and tips for the various 
 
 For this task, you will need to fork this repo at: https://github.com/CSC207-2026S-UofT/Lab2-Branching-and-Merging.
 
-- [ ] Make a fork of this repo and clone a local copy (as you did in Lab 1).
+- [X] Make a fork of this repo and clone a local copy (as you did in Lab 1).
   - **Important**: make sure to **uncheck** the option to only fork the main branch, as the repo
   contains two branches you will use later in this lab.
 
